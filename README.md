@@ -27,3 +27,14 @@
 - MondoDb
 - bcrypt
 - and other packages for server's usage
+
+
+### Screenshots
+
+![Home Page](https://github.com/Sahil-Chhabra-09/To-Do-webapp/assets/122990320/3929cfde-df90-4649-90b8-c4c1a1f9a121)
+
+![SignUp/Login screen](https://github.com/Sahil-Chhabra-09/To-Do-webapp/assets/122990320/d7b1b03c-311c-4ee0-a5b6-d1e32e0e8a07)
+
+![LoggedIn Page](https://github.com/Sahil-Chhabra-09/To-Do-webapp/assets/122990320/7dd2403c-5c33-4554-8834-b45dcf243403)
+
+![Edit task page](https://github.com/Sahil-Chhabra-09/To-Do-webapp/assets/122990320/efcafe61-395e-4a9f-89f9-6384747f9d74)
