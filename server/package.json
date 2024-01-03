@@ -4,7 +4,7 @@
   "description": "consists of server files for task-manager",
   "main": "app.js",
   "engines": {
-    "node": "14.x"
+    "node": "18.x"
   },
   "scripts": {
     "start": "nodemon app.js"

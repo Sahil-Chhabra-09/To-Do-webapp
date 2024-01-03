@@ -29,7 +29,7 @@ function List({ refetchData, setRefetchData }) {
     }
   }, [refetchData]);
   return (
-    <div className="h-3/4 pt-2 w-1/2 border-2 border-slate-700 mx-auto overflow-y-scroll">
+    <div className="h-3/4 pt-2 w-5/6 md:w-1/2 border-2 border-slate-700 mx-auto overflow-y-scroll">
       <div>
         <p className="h-max p-2 text-center">Your List</p>
         <hr className="border-1 border-slate-700"></hr>

@@ -39,7 +39,7 @@ function Header({ setRefetchData }) {
     }
   };
   return (
-    <div className="h-max shadow-lg hover:shadow-xl w-2/3 p-6 space-y-2">
+    <div className="h-max shadow-lg hover:shadow-xl w-full md:w-2/3 p-6 space-y-2">
       <div className=" w-full p-2 text-center">Just a To Do list</div>
       <div className="flex-col">
         <input

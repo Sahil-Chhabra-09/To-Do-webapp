@@ -57,7 +57,7 @@ function Edit() {
   return (
     <>
       <div className="w-screen h-screen flex justify-center items-center text-center">
-        <div className="shadow-2xl w-2/3 space-y-2 border-y-2 border-t-2 border-slate-400 p-2">
+        <div className="shadow-2xl w-full md:w-2/3 space-y-2 border-y-2 border-t-2 border-slate-400 p-2">
           <p>Edit Task</p>
           {/* edit options */}
           <div className="border-2 border-slate-400 space-y-2 p-2">

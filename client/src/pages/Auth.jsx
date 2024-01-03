@@ -35,7 +35,7 @@ function Auth() {
         }
       })
       .catch((error) => {
-        toast.error("Failed to add data");
+        toast.error("Something went wrong");
         console.error({ msg: error });
       });
   };
@@ -48,7 +48,7 @@ function Auth() {
 
   return (
     <div className="border-2 h-screen flex justify-center items-center">
-      <div className="h-max shadow-lg hover:shadow-xl w-2/3 p-6 space-y-2 relative">
+      <div className="h-max shadow-lg hover:shadow-xl w-full md:w-2/3 p-6 space-y-2 relative">
         <div className=" w-full p-2 text-center text-lg">
           {stage === "signup" ? "Create an account" : "Login"}
         </div>
